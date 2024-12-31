@@ -13,7 +13,7 @@ django-admin startproject nom-du-projet
 ## 4-Choisir language pour le pannel Admin:
 dans **settings.py** : 
 ```bash
-LANGUGE_CODE = 'en-us' ou 'fr'
+LANGUAGE_CODE = 'en-us' ou 'fr'
 ```
 
 ## 5-Lancer server local:
